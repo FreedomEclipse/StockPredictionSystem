@@ -1,0 +1,37 @@
+1:  C. Internal reformation with one company
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  C. Large Cap
+8:  B. Natural Gas
+9:  D. The bank holding your mortgage may not agree
+10:  B. A rise in stock prices in December
+11:  D. 50 Companies
+12:  B. Negative Correlation
+13:  BREAK
+14:  A. x = -60
+15:  B. 64
+16:  C. 3x² + 6x + 2
+17:  B. 2y² + 5y + 3
+18:  D. -5/2
+19:  D. y > 5/2
+20:  B. 2g² + 10g + 9
+21:  A. -16√2
+22:  A. 9
+23:  B. 5x³ + x² - x - 1
+Willingness Score: 9
+Subject BP: BUY
+Subject SWN: BUY
+Subject GLD: SELL
+Subject USO: BUY
+Subject DJI: BUY
+Subject CVX: BUY
+BP=1.0
+SWN=-1.0
+GLD=1.0
+USO=1.0
+^DJI=-1.0
+CVX=-1.0

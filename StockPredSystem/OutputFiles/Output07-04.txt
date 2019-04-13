@@ -1,0 +1,37 @@
+2:  A. Natural Disasters
+3:  A. The lack of buyer and sellers
+4:  A. Price to book ratio
+5:  A. Positive Correlation
+6:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+7:  A. Southwestern Energy Company
+8:  A. Small Cap
+9:  A. Oil
+10:  A. You receive a margin call order
+11:  A. A rise in stock prices in January
+12:  A. 10 Companies
+13:  A. Positive Correlation
+14:  BREAK
+15:  A. x = -60
+16:  A. 925
+17:  A. 3x² + 6x + 4
+18:  A. 4y² + 8y + 6
+19:  A. 12g² + 30
+20:  A. y > 2/5
+21:  A. 2g² + 5g + 3
+22:  A. -16√2
+23:  A. 9
+24:  A. 5x³ + 2x² - x - 1
+Willingness Score: 3
+Subject BP: SELL
+Subject SWN: BUY
+Subject GLD: BUY
+Subject USO: BUY
+Subject DJI: BUY
+Subject CVX: BUY
+BP=1.0
+SWN=1.0
+GLD=-1.0
+USO=1.0
+^DJI=-1.0
+CVX=-1.0

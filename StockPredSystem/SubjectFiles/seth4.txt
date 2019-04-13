@@ -1,0 +1,73 @@
+initialized pins
+Start: 2016-08-20 12:06:59.123266
+Structured Rest Page: 2016-08-20 12:08:34.231212
+Central Crosshair (M1): 2016-08-20 12:08:44.689397
+Domain Question 1 Appearance (M2): 2016-08-20 12:10:45.011541
+Question 1 Response (M4): 2016-08-20 12:10:54.055588
+Question 2 Response (M5): 2016-08-20 12:11:12.022737
+Question 3 Response (M3): 2016-08-20 12:11:42.928087
+Question 4 Response (M5): 2016-08-20 12:11:53.716906
+Question 5 Response (M3): 2016-08-20 12:12:06.089190
+Question 6 Response (M4): 2016-08-20 12:12:15.570523
+Question 7 Response (M4): 2016-08-20 12:12:27.631810
+Question 8 Response (M5): 2016-08-20 12:12:42.872982
+Question 9 Response (M4): 2016-08-20 12:13:06.016545
+Question 10 Response (M3): 2016-08-20 12:13:27.331783
+Question 11 Response (M3): 2016-08-20 12:13:36.962217
+Question 12 Response (M5): 2016-08-20 12:13:51.829835
+Break between Dom & Alg questions
+Algebra Question 1 Appear (M6): 2016-08-20 12:14:52.141101
+Algebra Question 1 Response (M8): 2016-08-20 12:15:36.391654
+Sleep 27 seconds
+Algebra Question 2 Appear (M6): 2016-08-20 12:16:03.717015
+Algebra Question 2 Response (M7): 2016-08-20 12:17:43.988780
+Sleep 17 secs
+Algebra Question 3 Appear (M6): 2016-08-20 12:18:01.313666
+Algebra Question 3 Response (M7): 2016-08-20 12:20:04.890680
+Sleep 13
+Algebra Question 4 Appear (M6): 2016-08-20 12:20:18.218886
+Algebra Question 4 Response (M9): 2016-08-20 12:21:14.960921
+Sleep 1 Minute
+Algebra Question 5 Appear (M6): 2016-08-20 12:22:15.283232
+Algebra Question 5 Response (M9): 2016-08-20 12:26:41.003371
+Sleep 7 seconds
+Algebra Question 6 Appear (M6): 2016-08-20 12:26:48.330535
+Algebra Question 6 Response (M8): 2016-08-20 12:28:10.335403
+Sleep 27 seconds
+Algebra Question 7 Appear (M6): 2016-08-20 12:28:37.663176
+Algebra Question 7 Response (M7): 2016-08-20 12:30:03.030325
+Sleep 1 Minute
+Algebra Question 8 Appear (M6): 2016-08-20 12:31:03.357509
+Algebra Question 8 Response (M9): 2016-08-20 12:31:39.225760
+Sleep 30 secs
+Algebra Question 9 Appear (M6): 2016-08-20 12:32:09.553654
+Algebra Question 9 Response (M8): 2016-08-20 12:39:43.913163
+Sleep 1 Minute
+Algebra Question 10 Appear (M6): 2016-08-20 12:40:44.239823
+Algebra Question 10 Response (M7): 2016-08-20 12:41:21.697542
+Sleep 7 seconds
+Crosshairs (M10): 2016-08-20 12:41:40.436877
+Crosshairs (M10): 2016-08-20 12:41:41.773066
+Crosshairs (M10): 2016-08-20 12:41:44.109303
+Crosshairs (M10): 2016-08-20 12:41:45.441766
+Crosshairs (M10): 2016-08-20 12:41:47.772417
+Crosshairs (M10): 2016-08-20 12:41:49.108024
+Crosshairs (M10): 2016-08-20 12:41:51.443623
+Crosshairs (M10): 2016-08-20 12:41:52.773805
+Crosshairs (M10): 2016-08-20 12:41:55.110184
+Stock Data Start (M11): 2016-08-20 12:41:56.454935
+Stock Data End (M11): 2016-08-20 12:43:56.761178
+Ponder Willingness
+Ponder Willigness (M12): 2016-08-20 12:44:04.154945
+Scale Page
+Scale (M13): 2016-08-20 12:44:34.492450
+39
+Stock Interaction Page
+Start of Prediction Interface (M14): 2016-08-20 12:45:00.245190
+Prediction Change (M15): 2016-08-20 12:45:20.078134
+Prediction Change (M15): 2016-08-20 12:45:35.020745
+Prediction Change (M15): 2016-08-20 12:45:48.521585
+Prediction Change (M15): 2016-08-20 12:45:57.290488
+Prediction Change (M15): 2016-08-20 12:46:05.529157
+Prediction Change (M15): 2016-08-20 12:46:11.838980
+Final Page System End Marker 10: 2016-08-20 12:46:13.241353

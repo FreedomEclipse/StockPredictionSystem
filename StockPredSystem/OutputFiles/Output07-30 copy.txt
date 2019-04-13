@@ -1,0 +1,46 @@
+1:  C. Internal reformation with one company
+2:  B. The lack of alternative investments
+3:  C. Price earning ratio
+4:  B. Negative Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  B. Ford
+7:  C. Large Cap
+8:  A. Oil
+9:  B. You may end up with very high losses
+10:  A. A rise in stock prices in January
+11:  B. 20 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  B. 64
+16:  C. 3x² + 6x + 2
+17:  B. 2y² + 5y + 3
+18:  D. -5/2
+19:  B. y < 5/2
+20:  B. 2g² + 10g + 9
+21:  A. -16√2
+22:  B. 3
+23:  B. 5x³ + x² - x - 1
+Willingness Score: 2
+Subject BP: BUY
+Subject SWN: BUY
+Subject GLD: SELL
+Subject USO: BUY
+Subject DJI: SELL
+Subject CVX: SELL
+
+BP=-1.0 (SELL)
+SWN=-1.0 (SELL)
+GLD=1.0 (BUY)
+USO=-1.0 (SELL)
+^DJI=-1.0 (SELL)
+CVX=-1.0 (SELL)
+
+Actual
+BP=-1.0 (SELL)
+SWN=-1.0 (SELL)
+GLD=1.0 (BUY)
+USO=-1.0 (SELL)
+DJIA=-1.0 (SELL)
+CVX=-1.0 (SELL)

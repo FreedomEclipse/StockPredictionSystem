@@ -1,0 +1,31 @@
+Start: 2016-07-13 17:22:41.454435
+Structured Rest Page: 2016-07-13 17:23:07.642515
+2
+Central Crosshair (M1): 2016-07-13 17:23:08.665137
+3
+Domain Question 1 Appearance (M2): 2016-07-13 17:23:10.687817
+Domain Medium
+Question 1 Response (M4): 2016-07-13 17:23:12.047498
+Domain Advanced
+Question 2 Response (M5): 2016-07-13 17:23:12.229331
+Domain Basic
+Question 3 Response (M3): 2016-07-13 17:23:12.377468
+Domain Advanced
+Question 4 Response (M5): 2016-07-13 17:23:12.533153
+Domain Basic
+Question 5 Response (M3): 2016-07-13 17:23:12.697240
+Domain Medium
+Question 6 Response (M4): 2016-07-13 17:23:12.853337
+Domain Medium
+Question 7 Response (M4): 2016-07-13 17:23:13.008328
+Domain Advanced
+Question 8 Response (M5): 2016-07-13 17:23:13.204994
+Domain Medium
+Question 9 Response (M4): 2016-07-13 17:23:13.361287
+Domain Basic
+Question 10 Response (M3): 2016-07-13 17:23:13.541229
+Domain Basic
+Question 11 Response (M3): 2016-07-13 17:23:13.721340
+Domain Advanced
+Question 12 Response (M5): 2016-07-13 17:23:14.267247
+Break between Dom & Alg questions

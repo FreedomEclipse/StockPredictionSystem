@@ -1,0 +1,47 @@
+initialized pins
+Start: 2016-07-08 14:05:27.189363
+Structured Rest Page: 2016-07-08 14:05:32.946436
+2
+Central Crosshair (M1): 2016-07-08 14:05:35.017936
+3
+Domain Question 1 Appearance (M2): 2016-07-08 14:05:40.342697
+Domain Medium
+Question 1 Response (M4): 2016-07-08 14:05:44.155776
+Domain Advanced
+Question 2 Response (M5): 2016-07-08 14:05:47.073967
+Domain Basic
+Question 3 Response (M3): 2016-07-08 14:05:49.588835
+Domain Advanced
+Question 4 Response (M5): 2016-07-08 14:05:51.671419
+Domain Basic
+Question 5 Response (M3): 2016-07-08 14:05:53.902643
+Domain Medium
+Question 6 Response (M4): 2016-07-08 14:05:56.508549
+Domain Medium
+Question 7 Response (M4): 2016-07-08 14:05:57.721798
+Domain Advanced
+Question 8 Response (M5): 2016-07-08 14:05:58.853696
+Domain Medium
+Question 9 Response (M4): 2016-07-08 14:06:01.440918
+Domain Basic
+Question 10 Response (M3): 2016-07-08 14:06:02.713052
+Domain Basic
+Question 11 Response (M3): 2016-07-08 14:06:04.015769
+Domain Advanced
+Question 12 Response (M5): 2016-07-08 14:06:07.222175
+Break between Dom & Alg questions
+Algebra Question 1 Appear (M6): 2016-07-08 14:06:12.439799
+All else
+Algebra Question 1 Appear (M6): 2016-07-08 14:06:12.747056
+Algebra Medium
+Algebra Question 1 Response (M8): 2016-07-08 14:06:19.856363
+Sleep 27 seconds
+Algebra Question 2 Appear (M6): 2016-07-08 14:06:22.183004
+Algebra Basic
+Algebra Question 2 Response (M7): 2016-07-08 14:06:23.983281
+Sleep 17 secs
+Algebra Question 3 Appear (M6): 2016-07-08 14:06:26.306917
+Algebra Basic
+Algebra Question 3 Response (M7): 2016-07-08 14:06:28.083176
+Sleep 13
+Algebra Question 4 Appear (M6): 2016-07-08 14:06:30.407024

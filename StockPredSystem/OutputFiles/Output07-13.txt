@@ -1,0 +1,78 @@
+1:  A. Natural Disasters
+2:  C. The lack of stocks traded
+3:  B. Dividend yield ratio
+4:  A. Positive Correlation
+5:  C. The bear means stock prices are rising
+ and the bull means stock prices are falling.
+6:  B. Ford
+7:  D. Mega Cap
+8:  B. Natural Gas
+9:  A. You receive a margin call order
+10:  B. A rise in stock prices in December
+11:  D. 50 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  C. -44
+16:  A. 3x² + 6x + 4
+17:  D. 2y² + 5y + 6
+18:  B. 12g² + 5
+19:  C. y < 2/5
+20:  C. 10g² + 5g + 3
+21:  C. -4√2
+22:  B. 3
+23:  A. 5x³ + 2x² - x - 1
+Willingness Score: 3
+Subject BP: BUY
+Subject SWN: BUY
+Subject GLD: BUY
+Subject USO: SELL
+Subject DJI: BUY
+Subject CVX: BUY
+BP=1.0
+SWN=1.0
+GLD=-1.0
+USO=-1.0
+^DJI=1.0
+CVX=1.0
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+4:  A. Positive Correlation
+3:  A. Price to book ratio
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+10:  A. A rise in stock prices in January
+9:  A. You receive a margin call order
+11:  A. 10 Companies
+12:  A. Positive Correlation
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation

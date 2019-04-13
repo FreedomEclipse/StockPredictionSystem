@@ -1,0 +1,163 @@
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  A. 925
+16:  A. 3x² + 6x + 4
+17:  A. 4y² + 8y + 6
+18:  A. 12g² + 30
+19:  A. y > 2/5
+20:  A. 2g² + 5g + 3
+21:  A. -16√2
+22:  A. 9
+23:  A. 5x³ + 2x² - x - 1
+Willingness Score: 3
+Subject BP: BUY
+Subject SWN: BUY
+Subject GLD: SELL
+Subject USO: BUY
+Subject DJI: BUY
+Subject CVX: BUY
+BP=-1.0
+SWN=1.0
+GLD=1.0
+USO=1.0
+^DJI=-1.0
+CVX=-1.0
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  A. 925
+16:  A. 3x² + 6x + 4
+17:  A. 4y² + 8y + 6
+18:  A. 12g² + 30
+19:  A. y > 2/5
+20:  A. 2g² + 5g + 3
+21:  A. -16√2
+22:  A. 9
+23:  A. 5x³ + 2x² - x - 1
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  A. 925
+16:  A. 3x² + 6x + 4
+17:  A. 4y² + 8y + 6
+18:  A. 12g² + 30
+19:  A. y > 2/5
+20:  A. 2g² + 5g + 3
+21:  A. -16√2
+22:  A. 9
+23:  A. 5x³ + 2x² - x - 1
+Willingness Score: 2
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+1:  A. Natural Disasters
+2:  A. The lack of buyer and sellers
+3:  A. Price to book ratio
+4:  A. Positive Correlation
+5:  A. The bear means stock prices are falling
+ and the bull means stock prices are rising.
+6:  A. Southwestern Energy Company
+7:  A. Small Cap
+8:  A. Oil
+9:  A. You receive a margin call order
+10:  A. A rise in stock prices in January
+11:  A. 10 Companies
+12:  A. Positive Correlation
+13:  BREAK
+14:  A. x = -60
+15:  A. 925
+16:  A. 3x² + 6x + 4
+17:  A. 4y² + 8y + 6
+18:  A. 12g² + 30
+19:  A. y > 2/5
+20:  A. 2g² + 5g + 3
+21:  A. -16√2
+22:  B. 3
+23:  A. 5x³ + 2x² - x - 1
+Willingness Score: 6
+Subject BP: SELL
+Subject SWN: SELL
+Subject GLD: BUY
+Subject USO: BUY
+Subject DJI: SELL
+Subject CVX: BUY
+BP=-1.0
+SWN=1.0
+GLD=1.0
+USO=1.0
+^DJI=-1.0
+CVX=-1.0

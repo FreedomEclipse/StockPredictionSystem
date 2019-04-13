@@ -1,0 +1,4 @@
+initialized pins
+Start: 2016-08-02 15:54:14.848571
+Structured Rest Page: 2016-08-02 15:54:17.581541
+Central Crosshair (M1): 2016-08-02 15:54:19.146078

@@ -1,0 +1,11 @@
+initialized pins
+Start: 2016-09-15 14:03:13.140007
+Structured Rest Page: 2016-09-15 14:03:39.635797
+Central Crosshair (M1): 2016-09-15 14:03:41.639981
+Domain Question 1 Appearance (M2): 2016-09-15 14:05:41.966693
+Question 1 Response (M4): 2016-09-15 14:10:00.927729
+Question 2 Response (M5): 2016-09-15 14:10:02.714012
+Question 3 Response (M3): 2016-09-15 14:10:04.262703
+Question 4 Response (M5): 2016-09-15 14:10:06.197977
+Question 5 Response (M3): 2016-09-15 14:10:07.679503
+Question 6 Response (M4): 2016-09-15 14:10:08.928018
